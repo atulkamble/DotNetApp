@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9kA8ctgO124PSsqb32T0qyi00QVb59xK/p0K/DzY7/uLIQxjDGlMBptbvs37ZNVZKo01LmZkXRzKO+1gjfs9YA==",
+  "dgSpecHash": "3G9eMGfli5WHy27GOOEB63X4nP3wwV0MudxHH6HV9OkfG6SaaYB/zX08t4rMGuf8CbBvSqnJHNmFn2kmgYKWVQ==",
   "success": true,
   "projectFilePath": "D:\\Project\\gitproject\\DotNetApp\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\atul_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

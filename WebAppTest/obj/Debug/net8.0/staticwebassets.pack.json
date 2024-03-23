@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\webappdotnet\\WebAppTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebAppTest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebAppTest.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project\\webappdotnet\\WebAppTest\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Project\\webappdotnet\\WebAppTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\webappdotnet\\WebAppTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\webappdotnet\\WebAppTest\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAppTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAppTest.props",
+      "PackagePath": "build\\WebAppTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppTest.props",
+      "PackagePath": "buildMultiTargeting\\WebAppTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAppTest.props",
+      "PackagePath": "buildTransitive\\WebAppTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
